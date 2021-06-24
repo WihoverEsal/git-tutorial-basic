@@ -11,3 +11,5 @@ Ubuntu usando nano
 Linea con el fin de modificar el archivo desde github y despues hacer pull en la terminal de ubuntu para sincronizar los repositorios
 
 Modificación para subirla desde GitHub Desktop 
+
+Hacer pull desde la aplicación de GitHub Desktop
