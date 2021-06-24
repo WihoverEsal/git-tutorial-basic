@@ -9,3 +9,5 @@ Esta linea es una modificacion para este archivo de texto a traves de la termina
 Ubuntu usando nano
 
 Linea con el fin de modificar el archivo desde github y despues hacer pull en la terminal de ubuntu para sincronizar los repositorios
+
+Modificación para subirla desde GitHub Desktop 
