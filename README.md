@@ -13,3 +13,5 @@ Linea con el fin de modificar el archivo desde github y despues hacer pull en la
 Modificación para subirla desde GitHub Desktop 
 
 Hacer pull desde la aplicación de GitHub Desktop
+
+Cambio desde VSCode
