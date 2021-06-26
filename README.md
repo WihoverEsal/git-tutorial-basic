@@ -15,3 +15,4 @@ Modificación para subirla desde GitHub Desktop
 Hacer pull desde la aplicación de GitHub Desktop
 
 Cambio desde VSCode
+Nuevo Cambio desde VS Code
